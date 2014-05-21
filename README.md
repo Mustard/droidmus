@@ -1,4 +1,4 @@
 droidmus
 ========
 
-Android Cmus remote
+Proof of concept Android Cmus remote 
